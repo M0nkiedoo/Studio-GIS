@@ -1,2 +1,2 @@
 # Studio-GIS
-GIS ART
+A GIS and cartographic portfolio site by Duncan Fraser.
